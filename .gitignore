@@ -1,0 +1,5 @@
+# Private directory - not tracked
+private/
+
+# System files
+.DS_Store
